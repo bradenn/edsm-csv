@@ -1,0 +1,8 @@
+{
+  "name": "cins370pre",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "json-2-csv": "^3.7.6"
+  }
+}
