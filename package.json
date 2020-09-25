@@ -1,5 +1,5 @@
 {
-  "name": "cins370pre",
+  "name": "edsm-csv",
   "version": "1.0.0",
   "dependencies": {
     "axios": "^0.20.0",
